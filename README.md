@@ -12,6 +12,7 @@ This project only has 2 dependencies; the rest are native to Python:
 
 # Future Updates
 This project doesn't really have a lot of updates planned, except for the following:
+- The option to download subtitles as well
 - Adding a .csv file to track what videos were downloaded at what time
 - Adding the option to choose where to install the video(s)
 
