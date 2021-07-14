@@ -17,8 +17,4 @@ This project doesn't really have a lot of updates planned, except for the follow
 - Adding the option to choose where to install the video(s)
 
 # Links
-Notion Page for this project:
-https://www.notion.so/212aa221da014292bbff5e096fd66f1d?v=2155d9e8c91742d5a9b56cdf2a09e4c0
-
-Personal Website:
-https://ali-ehtesham.carrd.co
+[Notion Page for this project](https://www.notion.so/YT-Video-Downloader-2702550f03674240985d538f0320f9eb) | [Personal Website](https://ali-ehtesham.carrd.co)
