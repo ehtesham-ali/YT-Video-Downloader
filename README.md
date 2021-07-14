@@ -5,6 +5,12 @@ The YouTube Video Downloader is a small project that enables users to download v
 - The ability to download all content from a channel
 - All packaged into a neat and straightforward GUI interface
 
+# How to use YT-Video-Downloader
+Using this app is super simple; as easy as 1, 2, 3! 
+First, you need to copy the URL from a Youtube page that you'd like to download into the first entry box right below the header. 
+Then, you need to select the type of link (video, playlist, channel) by clicking 1 of 3 boxes below the entry box. 
+Lastly, you need to press the big button that says 'Start' and watch as the program downloads the video(s)!
+
 # Dependencies
 This project only has 2 dependencies; the rest are native to Python:
 - PyQt5 and its dependencies (pip install PyQt5)
@@ -17,4 +23,4 @@ This project doesn't really have a lot of updates planned, except for the follow
 - Adding the option to choose where to install the video(s)
 
 # Links
-[Notion Page for this project](https://www.notion.so/YT-Video-Downloader-2702550f03674240985d538f0320f9eb) | [Personal Website](https://ali-ehtesham.carrd.co)
+[Notion](https://www.notion.so/YT-Video-Downloader-2702550f03674240985d538f0320f9eb) | [Website](https://ali-ehtesham.carrd.co)
