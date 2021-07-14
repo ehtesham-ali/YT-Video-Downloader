@@ -7,8 +7,11 @@ The YouTube Video Downloader is a small project that enables users to download v
 
 # How to use YT-Video-Downloader
 Using this app is super simple; as easy as 1, 2, 3! 
+
 First, you need to copy the URL from a Youtube page that you'd like to download into the first entry box right below the header. 
+
 Then, you need to select the type of link (video, playlist, channel) by clicking 1 of 3 boxes below the entry box. 
+
 Lastly, you need to press the big button that says 'Start' and watch as the program downloads the video(s)!
 
 # Dependencies
