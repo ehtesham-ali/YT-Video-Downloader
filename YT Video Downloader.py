@@ -144,7 +144,7 @@ class Ui_MainWindow(object):
         self.button_info.setFont(font)
         self.button_info.setObjectName("button_info")
         def func_info():
-            webbrowser.open('https://www.notion.so/Intro-Briefing-df63b6fc23b94cb7a79079d8a0ddf35b')
+            webbrowser.open('https://www.notion.so/YT-Video-Downloader-2702550f03674240985d538f0320f9eb')
             self.label.setText('More Information Page Opened')
 
         self.label = QtWidgets.QLabel(self.centralwidget)
